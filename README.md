@@ -1,4 +1,4 @@
-# WinformsDemo
+# Winforms Demo Project
 WinForms Demo Project
 
 This project will cover some basic topics:
