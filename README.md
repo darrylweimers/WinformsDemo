@@ -11,3 +11,5 @@ Allow user to select one of the layout options:
 - Tile Vertical 
 - Tile Horizontal
 
+![layout](https://user-images.githubusercontent.com/30273976/33409978-0e3e36cc-d54c-11e7-8cb7-4399a159fc5e.gif)
+
