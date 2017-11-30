@@ -1,5 +1,4 @@
 # Winforms Demo Project
-WinForms Demo Project
 
 This project will cover some basic topics:
 Use of components: TextBox, Forms, Button, MenuStrip, StatusStrip, ToolStrip, Timer, Label, ListView
